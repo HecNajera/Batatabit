@@ -1,0 +1,14 @@
+.product-card--container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.bitcoin-img-container h2 {
+    font-size: 3.6rem;
+}
+
+.plans-container--slider {
+    justify-content: center;
+}
+
